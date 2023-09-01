@@ -1,0 +1,29 @@
+
+L
+java:S3740p"/Provide the parametrized type for this generic.(ôê£8ˆ¦æ–¢1
+Q
+java:S3740r"/Provide the parametrized type for this generic.(¾¥Ì÷ÿÿÿÿÿ8ˆ¦æ–¢1
+o
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î•î4
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒµ€‘ûÿÿÿÿ
+E
+java:S1066."/Merge this if statement with the enclosing one.(æïêü
+v
+java:S1488#"`Immediately return this expression instead of assigning it to the temporary variable "instance".(çõ¼‚
+T
+java:S2589j"7Remove this expression which always evaluates to "true"(ÀÅ8›¦æ–¢1
+q
+java:S3824‘"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(äÔ¨¡şÿÿÿÿ8›¦æ–¢1
+l
+java:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(°Ùøò8›¦æ–¢1
+O
+java:S1874D"2Remove this use of "ViewScoped"; it is deprecated.(Şò•å8 ¦æ–¢1
+\
+java:S1126U"AReplace this if-then-else statement by a single return statement.(ó¡şåÿÿÿÿÿ
+;
+java:S1168‹"$Return an empty map instead of null.(¥¹ï
+a
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(°‚ƒùÿÿÿÿ
+a
+java:S1124«"EReorder the modifiers to comply with the Java Language Specification.(©Æˆ˜ùÿÿÿÿ
